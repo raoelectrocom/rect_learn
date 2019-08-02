@@ -10,6 +10,9 @@ function App() {
       </h1>
       <p>This is really working</p>
       <Person />
+      <Person />
+      <Person />
+      <Person /> 
     </div>
   );
   // return React.createElement('div', {className: 'App'}, React.createElement('h1', 'null', 'Does this work now?'));
